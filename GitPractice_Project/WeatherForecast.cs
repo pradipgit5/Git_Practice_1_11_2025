@@ -14,5 +14,10 @@ namespace GitPractice_Project
         {
             Console.WriteLine("Test Data");
         }
+
+        public void test1()
+        {
+            Console.WriteLine("test Data 2");
+        }
     }
 }
