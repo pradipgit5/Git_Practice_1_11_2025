@@ -20,11 +20,7 @@ namespace GitPractice_Project
             Console.WriteLine("test Data 2");
         }
 
-        public void Commit_5()
-        {
-            Console.WriteLine("this is the example of commit-5");
-        }
-
+ 
         public void Commit_7()
         {
             Console.WriteLine("This is example of commit-7");
