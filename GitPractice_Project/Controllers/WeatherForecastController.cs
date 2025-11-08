@@ -39,5 +39,10 @@ namespace GitPractice_Project.Controllers
             Console.WriteLine("This is the example of commit-4");
         }
 
+        public void Commit_6()
+        {
+            Console.WriteLine("This is example of commit-6");
+        }
+
     }
 }
