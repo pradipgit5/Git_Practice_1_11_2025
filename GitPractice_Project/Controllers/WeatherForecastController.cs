@@ -29,5 +29,10 @@ namespace GitPractice_Project.Controllers
             })
             .ToArray();
         }
+
+        public void Method1()
+        {
+            Console.WriteLine("This is the example of revert logic");
+        }
     }
 }
