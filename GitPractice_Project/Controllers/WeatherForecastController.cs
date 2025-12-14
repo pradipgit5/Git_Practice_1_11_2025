@@ -29,5 +29,15 @@ namespace GitPractice_Project.Controllers
             })
             .ToArray();
         }
+
+        public void Commit1()
+        {
+            Console.WriteLine("This is the example of Commit1");
+        }
+
+        public void Commit2()
+        {
+            Console.WriteLine("This is the example of Commit2");
+        }
     }
 }
