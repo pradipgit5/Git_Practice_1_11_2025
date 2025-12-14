@@ -18,6 +18,11 @@ namespace GitPractice_Project
         {
             Console.WriteLine("This is the example of Commit4");
         }
+
+        public void Hotfix_method()
+        {
+            Console.WriteLine("This is the example of hotfix method");
+        }
     }
 
 

@@ -39,5 +39,10 @@ namespace GitPractice_Project.Controllers
         {
             Console.WriteLine("This is the example of Commit2");
         }
+
+        public void Hotfix_method_2()
+        {
+            Console.WriteLine("This is the example of hotfix method-2");
+        }
     }
 }
