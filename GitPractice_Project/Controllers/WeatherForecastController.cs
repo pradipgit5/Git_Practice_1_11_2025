@@ -44,5 +44,10 @@ namespace GitPractice_Project.Controllers
             Console.WriteLine("This is example of commit-6");
         }
 
+        public void fixingCherrypick()
+        {
+            Console.WriteLine("This is the example of fixing cherry-pick");
+        }
+
     }
 }
