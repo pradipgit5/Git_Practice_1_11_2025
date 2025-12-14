@@ -24,15 +24,5 @@ namespace GitPractice_Project
         {
             Console.WriteLine("this is the example of commit-5");
         }
-
-        public void fixingCherrypick_2()
-        {
-            Console.WriteLine("This is the example of fixing cherry-pick -2");
-        }
-
-        public void Hotfix_method()
-        {
-            Console.WriteLine("This is the example of hotfix method");
-        }
     }
 }
