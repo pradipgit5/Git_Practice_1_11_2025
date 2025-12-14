@@ -29,5 +29,10 @@ namespace GitPractice_Project
         {
             Console.WriteLine("This is the example of fixing cherry-pick -2");
         }
+
+        public void Hotfix_method()
+        {
+            Console.WriteLine("This is the example of hotfix method");
+        }
     }
 }
