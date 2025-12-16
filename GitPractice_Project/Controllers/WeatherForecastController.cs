@@ -29,5 +29,10 @@ namespace GitPractice_Project.Controllers
             })
             .ToArray();
         }
+
+        public void revert_Commit3()
+        {
+            Console.WriteLine("This is a new method added to demonstrate revert commit3 functionality.");
+        }
     }
 }
