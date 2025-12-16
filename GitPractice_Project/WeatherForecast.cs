@@ -15,5 +15,10 @@ namespace GitPractice_Project
         {
             Console.WriteLine("This is a new method added to demonstrate revert commit1  functionality.");
         }
+
+        public void revert_Commit2()
+        {
+            Console.WriteLine("This is a new method added to demonstrate revert commit2 functionality.");
+        }
     }
 }
